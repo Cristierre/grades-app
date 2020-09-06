@@ -3,7 +3,7 @@ import GradeDataService from '../services/GradeService';
 
 const AddGrade = () => {
   const initialGradeState = {
-    id: null,
+    _id: null,
     name: '',
     subject: '',
     type: '',
